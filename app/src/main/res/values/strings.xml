@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Streaming Audio</string>
+    <!--<string name="testsong_20_sec">http://www.hrupin.com/wp-content/uploads/mp3/testsong_20_sec.mp3</string>-->
+    <string name="testsong_20_sec">https://server10.mp3quran.net/ajm/128/001.mp3</string>
+</resources>
